@@ -105,7 +105,7 @@
      window.addEventListener('DOMContentLoaded', function() {
         (function($) {
             $(window).on('resize load', function() {
-                $('body').css({"padding-top": $(".navbar").height() + "px"});
+                $('body').css({"padding-top": $(".navbar").height() + 10 + "px"});
             });
         })(jQuery);
     });
