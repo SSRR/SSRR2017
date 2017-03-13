@@ -12,7 +12,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://www.ssrr-conference.org/2017/"
+			url: "http://www.ssrr-conference.org/2017"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
@@ -45,12 +45,12 @@ docpadConfig = {
 
 			# Scripts
 			scripts: [
-				"//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"
-				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
-				"/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"
+				"/vendor/jquery.min.js"
+				"/vendor/modernizr.min.js"
+				"/vendor/bootstrap.min.js"
 				"/scripts/script.js"
 			]
-
+#				"/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"
 
 
 		# -----------------------------

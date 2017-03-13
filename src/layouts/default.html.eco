@@ -66,8 +66,8 @@
 	</style> 
 	<!-- Sponsors -->
 
-	<div  id="logos" class="text-right container">
-	      <a class="btn btn-lg btn-info" style="float:left;" href="pages/cfp.html">Call for papers &raquo;</a>
+	<div  id="logos" class="text-right container visible-lg visible-md">
+	      <a class="btn btn-lg btn-info" style="float:left;" href="/pages/cfp">Call for papers &raquo;</a>
             <img src="/images/IEEE_MB_Blue.jpg"/>
             <img src="/images/RaA_logo.jpg"/>
             <img src="/images/STAR_Center_med.png"/>
@@ -83,6 +83,13 @@
 
 		<!-- Footer -->
 		<footer>
+                    <div  id="logos" class="text-right container visible-sm visible-xs">
+                        <a class="btn btn-lg btn-info" style="float:left;" href="/pages/cfp">Call for papers &raquo;</a>
+                        <img src="/images/IEEE_MB_Blue.jpg"/>
+                        <img src="/images/RaA_logo.jpg"/>
+                        <img src="/images/STAR_Center_med.png"/>
+                        <img src="/images/ShanghaiTechLogo.png"/>
+                    </div>
                         <br>
 			<p class="pull-left">&copy; SSRR <%- (new Date()).getFullYear() %></p>
 			<p class="pull-right">
@@ -93,5 +100,19 @@
 
 	<!-- Scripts -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
+    <script type="text/javascript" language="javascript">
+
+     window.addEventListener('DOMContentLoaded', function() {
+        (function($) {
+            $(window).on('resize load', function() {
+                $('body').css({"padding-top": $(".navbar").height() + "px"});
+            });
+        })(jQuery);
+    });
+    
+
+
+</script>
 </body>
+
 </html>
