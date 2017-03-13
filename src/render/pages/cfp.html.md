@@ -9,7 +9,7 @@ pageOrder: 1
 
 ## Oct 11 - 13, 2017, Shanghai, China
 
-### **[CfP as PDF](../cfp_v1.pdf)**
+### **[CfP as PDF](../../cfp_v1.pdf)**
 
 The 15th IEEE International Symposium on Safety, Security, and Rescue Robotics 2017 (SSRR 2017) is inviting cutting-edge papers in the theory and practice of robotics and automation for all types of safety, security, and rescue applications such as disaster response, mitigation and recovery; rapid and secure inspection of critical infrastructure; detection of chemical, biological and radiological risks, and operations in these dangerous sites. 
 
