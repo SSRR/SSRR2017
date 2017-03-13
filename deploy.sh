@@ -4,6 +4,8 @@ docpad generate --env static
 
 rm -rf out/vendor/twitter-bootstrap
 
+rm -rf out/pages/*.html
+
 find out -type f -name "*.html" -exec sed -ie 's,"/,"/2017/,g' {} \;
 find out -type f -name "*.html" -exec sed -ie 's,url=/,url=/2017/,g' {} \;
 
