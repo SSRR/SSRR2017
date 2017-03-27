@@ -17,15 +17,13 @@ The 15th IEEE International Symposium on Safety, Security, and Rescue Robotics 2
 ### Papers and participation fall into:
 
 * Regular papers (4-6 pages) describing original work in SSR or work that can be applied to SSR domains.
-* Center/project papers (2-4 pages) describing work at centers or active multi-institutional projects.
-* Vision papers (2-4) presenting long-term challenges or new ideas outside of the mainstream in computing for SSR robotics.
 * Late Breaking Reports (1-2 pages) contributing novel directions or work which has not been fully analyzed or explored. Late Breaking Reports are reviewed and the relevance of the material to the SSR domains must be clear.
 
 
 ### Submission
 
 Submissions of original papers focused on traditional and emerging areas and applications in safety, security, and rescue robotics are encouraged. All papers will appear in IEEE Xplore. 
-Nominated contributions for "Best Paper" and "Best Student Paper" awards and other outstanding papers that report field experiments will be considered for a special issue of the Journal of Field Robotics. Video and late-breaking-reports will be also considered and included in the program. Submission guidelines will be found in the SSRR website.
+Nominated contributions for "Best Paper" and "Best Student Paper" awards and other outstanding papers that report field experiments will be considered for a special issue of the Journal of Field Robotics. Late-breaking-reports will be also considered and included in the program. Submission guidelines will be published here at a later date.
 
 
 ### Awards
