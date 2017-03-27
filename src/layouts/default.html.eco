@@ -61,18 +61,15 @@
 			</div><!--/.navbar-collapse -->
 		</div>
 	</div>
-	<style>
-            #logos img {height: 75px;}
-	</style> 
 	<!-- Sponsors -->
 
 	<div  id="logos" class="text-right container visible-lg visible-md">
 	      <a class="btn btn-lg btn-info" style="float:left;" href="/pages/cfp">Call for papers &raquo;</a>
-            <img src="/images/IEEE_MB_Blue.jpg"/>
-            <img src="/images/RaA_logo.jpg"/>
-            <img src="/images/STAR_Center_med.png"/>
-            <img src="/images/ShanghaiTechLogo.png"/>
-	</div>
+            <a target="_blank" href="http://www.ieee.org"><img height=75px src="/images/IEEE_MB_Blue.jpg"/></a>
+            <a target="_blank" href="http://ieee-ras.org"><img height=75px src="/images/RaA_logo.jpg"/></a>
+            <a target="_blank" href="http://star-center.shanghaitech.edu.cn"><img height=82px src="/images/STAR_Center_med.png"/></a>
+            <a target="_blank" href="http://www.shanghaitech.edu.cn/eng/"><img height=85px src="/images/ShanghaiTechLogo.png"/></a>
+	</div> 
  
 	<!-- Content -->
 	<div class="container">
@@ -83,12 +80,12 @@
 
 		<!-- Footer -->
 		<footer>
-                    <div  id="logos" class="text-right container visible-sm visible-xs">
+                    <div  id="logosfooter" class="text-right container visible-sm visible-xs">
                         <a class="btn btn-lg btn-info" style="float:left;" href="/pages/cfp">Call for papers &raquo;</a>
-                        <img src="/images/IEEE_MB_Blue.jpg"/>
-                        <img src="/images/RaA_logo.jpg"/>
-                        <img src="/images/STAR_Center_med.png"/>
-                        <img src="/images/ShanghaiTechLogo.png"/>
+                        <a target="_blank" href="http://www.ieee.org"><img height=75px src="/images/IEEE_MB_Blue.jpg"/></a>
+                        <a target="_blank" href="http://ieee-ras.org"><img height=75px src="/images/RaA_logo.jpg"/></a>
+                        <a target="_blank" href="http://star-center.shanghaitech.edu.cn"><img height=82px src="/images/STAR_Center_med.png"/></a>
+                        <a target="_blank" href="http://www.shanghaitech.edu.cn/eng/"><img height=85px src="/images/ShanghaiTechLogo.png"/></a>
                     </div>
                         <br>
 			<p class="pull-left">&copy; SSRR <%- (new Date()).getFullYear() %></p>
