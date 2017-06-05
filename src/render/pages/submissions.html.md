@@ -5,12 +5,9 @@ tags: ['intro','page']
 pageOrder: 2
 ```
 
-Papers have to be submitted via PaperPlaza Conference/Journal Management System. The system will open at a later time. No-show papers will not be included in the final IEEEXplore publication.
+Papers have to be submitted via PaperPlaza Conference/Journal Management System at [PaperPlaza](http://ras.papercept.net/conferences/scripts/start.pl). No-show papers will not be included in the final IEEEXplore publication.
 Full Papers should be submitted electronically in PDF format. Six camera-ready pages including figures and references are allowed for each paper (up to eighth pages with extra cost). Multimedia attachements, 1 minute video less than than 10 Mb are strongly encouraged.
 
-### Additional Submissions
-
-Late breaking reports (2 pages max), center/ project paperas as well as vision papers will be also considered and peer reviewed. If accepted will be included in the program and indexed in IEEEXPlore. 
 
 ### Late Breaking Reports:
 

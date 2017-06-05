@@ -27,6 +27,10 @@ There are many other hotels in that area. For example the [Mercure Shanghai Zhan
 
 ## Travel
 
+<!--
+Visa ! 
+-->
+
 Arriving at [Pudong International Airport]() you have three options to reach the hotel:
 
 * Take the Maglev Train (up to 430 km/h). Arriving at Longyang Road you will then take a taxi (maybe 10 minutes) to the hotel.
