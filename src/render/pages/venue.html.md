@@ -1,5 +1,5 @@
 ```
-title: Venue
+title: Venue & Travel
 layout: page
 tags: ['intro','page']
 pageOrder: 6
@@ -17,6 +17,8 @@ Locationn in [google maps](https://www.google.de/maps/@31.1774048,121.5955594,17
 
 The conference Hotel is the [Parkyard Hotel Shanghai](http://www.parkyardhotelshanghai.com/). A number of rooms have been blocked and are available at a special rate to SSRR participants. The welcome reception will be held in the evening of Oct 10 in the hotel.
 
+** Please use this [form](../../HOTEL_RESERVATION_FORM-SSRR_2017.doc) to register for the hotel. ** 
+
 The hotel is 600m from the subway line 2 metro station called Zhangjiang High Technology Park (take exit number 5). On your way you'll pass through the "Shanghai Legend Commercial Plaza" with offers restaurants, ATMs, a cinema and KTV. See this [google maps link](https://www.google.com.hk/maps/dir/31.2015449,121.5867995/31.1988215,121.5841669/@31.2001819,121.58422,18.09z/data=!4m2!4m1!3e2) for directions.
 
 A shuttle bus service will be available between ShanghaiTech University and the Parkyard Hotel. 
@@ -24,6 +26,10 @@ A shuttle bus service will be available between ShanghaiTech University and the 
 ### Other Hotels
 
 There are many other hotels in that area. For example the [Mercure Shanghai Zhangjiang](http://www.mercure.com/gb/hotel-A604-mercure-shanghai-zhangjiang/index.shtml) Hotel is within walking distance of ShanghaiTech University. 
+
+## Visa
+
+Please visit the [official chinese visa information website](http://english.gov.cn/services/visitchina/) for all the details. Most foreign visitors will need a visa to attend the conference in China. SSRR will provide an invitation letter once you payed your registration fee. Please write to sistconference@shanghaitech.edu.cn with all required information: Full name, date and place of birth, passport number and paper id (if applicable). 
 
 ## Travel
 
@@ -34,7 +40,7 @@ Visa !
 Arriving at [Pudong International Airport]() you have three options to reach the hotel:
 
 * Take the Maglev Train (up to 430 km/h). Arriving at Longyang Road you will then take a taxi (maybe 10 minutes) to the hotel.
-* Take a taxi from the airport. Be sure not to follow anybody offering you "taxi"  service (this would be an expensive limousine server) but to go to the marked taxi waiting area just otside the arrival hall.
+* Take a taxi from the airport. Be sure not to follow anybody offering you "taxi"  service (this would be an expensive limousine service) but to go to the marked taxi waiting area just otside the arrival hall.
 * Take the subway line number 2 to Zhangjiang High Technology Park station.
 
 

@@ -22,7 +22,8 @@ The 15th IEEE International Symposium on Safety, Security, and Rescue Robotics 2
 
 ### Submission
 
-Submissions of original papers focused on traditional and emerging areas and applications in safety, security, and rescue robotics are encouraged. All papers will appear in IEEE Xplore. 
+Submissions of original papers focused on traditional and emerging areas and applications in safety, security, and rescue robotics are encouraged. All papers will appear in IEEE Xplore, which is indexed by many databases, including Ei Compendex and Scopus: [IEEE Indexing Agreements](http://www.ieee.org/documents/ieee_indexing_agreements.pdf).
+ 
 Nominated contributions for "Best Paper" and "Best Student Paper" awards and other outstanding papers that report field experiments will be considered for a special issue of the Journal of Field Robotics. Late-breaking-reports will be also considered and included in the program. Submission guidelines will be published here at a later date.
 
 
@@ -40,7 +41,7 @@ SSRR 2017 will have four awards:
 
 * Jun 29: Paper submission
 * Aug 1: Notification of acceptance
-* Aug 12: Video and Late Breaking Reports submission
+* Aug 12: Late Breaking Reports submission
 * Aug 26: Late Breaking Reports acceptance
 * Sep 1: Final papers due
 * Oct 11-13: Conference
