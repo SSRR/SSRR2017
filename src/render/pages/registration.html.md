@@ -48,7 +48,7 @@ Fapiaos will be available for the on-site registration in RMB. If a Chinese auth
 
 ## Student Support
             
-SSRR 2017 will support a few selected students from developing countries by waiving their early registration fee. To apply the student has to be the first author of an accepted paper, present this paper at the conference and the student has to study or be citisen of a developing country. Please send proof of student status (for August 1st) and a short recommendation letter from your academic advisor to soerensch@shanghaitech.edu.cn . 
+SSRR 2017 will support a few selected students from developing countries by waiving their early registration fee. To apply the student has to be IEEE RAS member, the first author of an accepted paper, present this paper at the conference and the student has to study or be citisen of a developing country. Please send proof of student status (for August 1st), your IEEE member number and a short recommendation letter from your academic advisor to soerensch@shanghaitech.edu.cn . 
 
 Send your material after the paper has been accepted, latest August 12. A SSRR committee will then select the awardees. 
            
