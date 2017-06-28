@@ -39,7 +39,7 @@ SSRR 2017 will have four awards:
 
 ### Important Dates
 
-* Jun 29: Paper submission
+* Jul 07: Paper submission
 * Aug 1: Notification of acceptance
 * Aug 12: Late Breaking Reports submission
 * Aug 26: Late Breaking Reports acceptance
