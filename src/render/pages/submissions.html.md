@@ -14,9 +14,16 @@ Full Papers should be submitted electronically in PDF format. Six camera-ready p
 Late Breaking Reports should be submitted electronically in PDF format via PaperPlaza. Two (2) camera-ready pages including figures are allowed for each paper, using the same guidelines of contributed papers. No-show late breaking report will not be included in IEEE Xplores.
 
 ## Format
-Papers should be formatted according to the IEEE standards. Papers failing to meet the correct format will be rejected. Please use the Letter Size Paper Template on the IEEE website: http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+Papers should be formatted according to the IEEE standards. Papers failing to meet the correct format will be rejected.
+
+<s>Please use the Letter Size Paper Template on the IEEE website: http://www.ieee.org/conferences_events/conferences/publishing/templates.html
 
 If you prefer LaTeX, use the command `\documentclass[conference,10pt,letter]{IEEEtran}`.
+</s>
+
+Update: Please use the Letter Size Paper Template as described on the RAS PaperPlaza website: http://ras.papercept.net/conferences/support/tex.php
+
+So for LaTeX, please use:  `\documentclass[letterpaper, 10 pt, conference]{ieeeconf}`.
 
 ## Demonstration submission
 

@@ -17,7 +17,7 @@ The 15th IEEE International Symposium on Safety, Security, and Rescue Robotics 2
 ### Papers and participation fall into:
 
 * Regular papers (4-6 pages) describing original work in SSR or work that can be applied to SSR domains.
-* Late Breaking Reports (1-2 pages) contributing novel directions or work which has not been fully analyzed or explored. Late Breaking Reports are reviewed and the relevance of the material to the SSR domains must be clear.
+* Late Breaking Reports (1-2 pages) contributing novel directions or work which has not been fully analyzed or explored. Late Breaking Reports are reviewed and the relevance of the material to the SSRR domains must be clear.
 
 
 ### Submission
@@ -41,9 +41,9 @@ SSRR 2017 will have four awards:
 
 * Jul 07: Paper submission
 * Aug 12: Notification of acceptance
-* Aug 20: Late Breaking Reports submission
-* Aug 26: Late Breaking Reports acceptance
+* Sep 1: Late Breaking Reports submission
 * Sep 1: Final papers due
+* Sep 5: Late Breaking Reports acceptance
 * Oct 11-13: Conference
 
 
