@@ -25,6 +25,13 @@ Update: Please use the Letter Size Paper Template as described on the RAS PaperP
 
 So for LaTeX, please use:  `\documentclass[letterpaper, 10 pt, conference]{ieeeconf}`.
 
+## PPT Template
+
+Please use the following template for the conference digest:
+
+[PPT Template](../../SSRR2017-Digest-Template.ppt)
+
+
 ## Demonstration submission
 
 Robot Demonstrations are welcome. Please submit a one page description of how your system will be compelling for safety, security, or rescue robot developers and users. Images and video of the demo are encouraged. Please send an email to (soerensch AT shanghaitech.edu.cn). For more details, please go to the demostration page.

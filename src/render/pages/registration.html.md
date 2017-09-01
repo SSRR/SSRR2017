@@ -4,7 +4,7 @@ layout: page
 tags: ['intro','page']
 pageOrder: 8
 ```
-Online registration will be handled by paperplaza. 
+Online registration will be handled by [paperplaza](http://ras.papercept.net/registration/). 
 
 Every registrant can present and publish one paper. For a second paper a second registrant is needed or the extra paper fee has to be payed. Final papers can only be uploaded after the registration fee has been payed.
 
