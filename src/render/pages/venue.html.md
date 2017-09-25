@@ -55,7 +55,7 @@ Arriving at [Pudong International Airport]() you have three options to reach the
 
 
 #### Chantime Plaza 
-This very big international plaza with many shopping and eating opportunities (including a selection of western restaurants) is just one subway line 2 stop from the "Zhangjiang High Technology Park" in the direction of Pudong International Airport. Get off at "Jinke Road" and take exit ? On the other side (exit ?) is another plaza with a very big supermarked in the basement.
+This very big international plaza with many shopping and eating opportunities (including a selection of western restaurants) is just one subway line 2 stop from the "Zhangjiang High Technology Park" in the direction of Pudong International Airport. Get off at "Jinke Road" and take exit 4. On the other side (exit 2) is another plaza with a very big supermarked in the basement.
 
 #### Souvenir Shooping
 Take subway line 2 to "Shanghai Science and Technology Museum" (from "Zhangjiang High Technology Park" direction "East Xujing", 3 stops, 9 minutes). Underground on the left and right side you will find many souvenir, electronics and fashion shops. Haggling is very much recommended. 
