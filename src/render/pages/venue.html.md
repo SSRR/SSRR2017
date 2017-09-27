@@ -11,7 +11,7 @@ pageOrder: 6
 The conference is hosted by the [School of Information Science and Technology (SIST)](http://sist.shanghaitech.edu.cn/) of [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/). 
 The conference will be held in the brand-new campus in the Zhangjiang High-Tech Park of Pudong, Shanghai. 
 
-Locationn in [google maps](https://www.google.de/maps/@31.1774048,121.5955594,17.95z) and [baidu maps](http://j.map.baidu.com/kCgaj). 
+Location in [google maps](https://www.google.de/maps/@31.1774048,121.5955594,17.95z) and [baidu maps](http://j.map.baidu.com/kCgaj). 
 
 ## Conference Hotel
 
@@ -33,9 +33,6 @@ Please visit the [official chinese visa information website](http://english.gov.
 
 ## Travel
 
-<!--
-Visa ! 
--->
 
 Arriving at [Pudong International Airport]() you have three options to reach the hotel:
 
@@ -43,6 +40,19 @@ Arriving at [Pudong International Airport]() you have three options to reach the
 * Take a taxi from the airport. Be sure not to follow anybody offering you "taxi"  service (this would be an expensive limousine service) but to go to the marked taxi waiting area just otside the arrival hall.
 * Take the subway line number 2 to Zhangjiang High Technology Park station.
 
+### Taxi Cards
+
+Please print the following taxi cards in case you need to use the taxi in Shanghai - most drivers don't speak English:
+
+* [Taxi Card ShanghaiTech](../../SSRR2017_TaxiCard_ShanghaiTech.pdf)
+* [Taxi Card Parkyard Hotel](../../SSRR2017_TaxiCard_Parkyard.pdf)
+
+Note that tipping is not common nor expected in China - not for taxis and also not in restaurants.
+
+### Subway
+For your visit many interesting places are conveniently located along subway line 2. You most likely arrive at Pudong Airport. The Parkyard Hotel is located near the Zhangjiang Hi-Tech Park station, the Banquet near Lujiazui station, East Nanjing Road station is near the Bund and the famous Nanjing Road. The Farewell Party is near Jinke Road station. 
+
+For the subway you may purchase one way tickets (the vending machines offer an English menu) or get a chargeable transportation card (20 RMB deposit).
 
 <!--
  ToDo: Taxi Cards
@@ -60,7 +70,23 @@ This very big international plaza with many shopping and eating opportunities (i
 #### Souvenir Shooping
 Take subway line 2 to "Shanghai Science and Technology Museum" (from "Zhangjiang High Technology Park" direction "East Xujing", 3 stops, 9 minutes). Underground on the left and right side you will find many souvenir, electronics and fashion shops. Haggling is very much recommended. 
 
-<!--
-ToDo: Lujiazeu, Bund, Nanjing Lu, People Square, Yu Garden
--->
+#### Lujiazui
+[Lujiazui](https://en.wikipedia.org/wiki/Lujiazui) is the center of Pudong, the financial center of Shanghai and home of the huge sky scrapers. The Shanghai Tower is the world's tallest building, by height to highest usable floor. Lujiazui also has the [Super Brand Mall](https://en.wikipedia.org/wiki/Super_Brand_Mall), one of the most prestigious shopping malls in East China, as well as a nice river promenade. See the [social events](social.html) page for some more info. Exit subway line 2 at Lujiazui.
+
+#### Bund  
+[The Bund](https://en.wikipedia.org/wiki/The_Bund) is a waterfront area with many historic buildings and a great view of the skyline of Lujiazui. Lujiazui and the Bund are connected via a very touristy tunnel. Exit subway line 2 at East Nanjing Road station.
+
+#### Nanjing Road
+Nanjing Lu (Road) is a very famous old shopping street in Shanghai, close to the Bund. Please take care and do not follow anybody offering you tea or other services - they will try to charge you a lot of money at the end! Exit subway line 2 at East Nanjing Road station.
+
+#### People's Square
+[People's Square](https://en.wikipedia.org/wiki/People%27s_Square) is home of many cultural institutions of Shanghai, such as the Shanghai Museum and the Shanghai Grand Theatre. Exit subway line 2 at People's Square.
+
+#### Jing'an Temple
+[Jing'an Temple](https://en.wikipedia.org/wiki/Jing%27an_Temple) is a famous historic temple, dating back to 247 AD (even though all the buildings are much newer). Exit subway line 2 at Jing'an Temple. 
+
+#### Yuyuan Garden
+[Yuyuan Garden](https://en.wikipedia.org/wiki/Yu_Garden) is a very famous and extensive Chinese garden located beside the [City God Temple](https://en.wikipedia.org/wiki/City_God_Temple_of_Shanghai) in the northeast of the Old City of Shanghai. It is right next to the Yuyuan Tourist Mart which is a sight in itself and offers lots of souverniers. From subway line 2 change to line 10 at East Nanjing Road station. In the East Nanjing Road station then take line 10 direction Hongqiao and exit at the next station (Yuyuan Garden). In the station take exit number 1 and follow the masses.
+
+
 
