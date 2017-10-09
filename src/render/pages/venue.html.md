@@ -17,11 +17,114 @@ Location in [google maps](https://www.google.de/maps/@31.1774048,121.5955594,17.
 
 The conference Hotel is the [Parkyard Hotel Shanghai](http://www.parkyardhotelshanghai.com/). A number of rooms have been blocked and are available at a special rate to SSRR participants. The welcome reception will be held in the evening of Oct 10 in the hotel.
 
-** Please use this [form](../../HOTEL_RESERVATION_FORM-SSRR_2017.doc) to register for the hotel. ** 
 
 The hotel is 600m from the subway line 2 metro station called Zhangjiang High Technology Park (take exit number 5). On your way you'll pass through the "Shanghai Legend Commercial Plaza" with offers restaurants, ATMs, a cinema and KTV. See this [google maps link](https://www.google.com.hk/maps/dir/31.2015449,121.5867995/31.1988215,121.5841669/@31.2001819,121.58422,18.09z/data=!4m2!4m1!3e2) for directions.
 
-A shuttle bus service will be available between ShanghaiTech University and the Parkyard Hotel. 
+See the shuttle bus time table between ShanghaiTech University and the Parkyard Hotel below:
+<table border="1" align="center" cellpadding="0" cellspacing="0" style="width:50%"> 
+	<tbody align="center"> 
+		<tr>
+			<td align="center" colspan="3" style="height:20px;">Timetable for Shuttle Bus between Parkyard and ShanghaiTech</td>
+		</tr>  
+		<tr>
+			<td style="height:20px">Date</td>
+			<td>Depature Time</td>
+			<td>Remarks</td>
+		</tr>
+		<tr>
+			<td rowspan="7" style="height:138px">Oct.11</td>
+			<td>07:45</td>
+			<td rowspan="4" style="">From Parkyard to ShanghaiTech</td>
+		</tr>
+		<tr>
+			<td style="height:20px">08:15</td>
+		</tr>
+		<tr>
+			<td style="height:20px">08:45</td>
+		</tr>
+		<tr>
+			<td style="height:20px">12:45</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:20px">12:15</td>
+			<td rowspan="2" style="">From ShanghaiTech to Parkyard</td>
+		</tr>
+		<tr>
+			<td style="height:20px">17:50</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="9" style="">Oct.12</td>
+			<td>08:15</td>
+			<td rowspan="4" style="">From Parkyard to ShanghaiTech</td>
+		</tr>
+		<tr>
+			<td style="height:20px">08:45</td>
+		</tr>
+		<tr>
+			<td style="height:20px">12:45</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:20px">12:15</td>
+			<td rowspan="2">ShanghaiTech-Parkyard</td>
+		</tr>
+		<tr>
+			<td style="height:20px">16:55</td>
+		</tr>
+		<tr>
+			<td style="height:20px">17:20</td>
+			<td>Parkyard-Banquet</td>
+		</tr>
+		<tr>
+			<td style="height:20px">20:30</td>
+			<td>Banquet-Parkyard</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="7" style="height:138px">Oct.13</td>
+			<td>08:15</td>
+			<td rowspan="3" style="width:269px">From Parkyard to ShanghaiTech</td>
+		</tr>
+		<tr>
+			<td style="height:20px">08:45</td>
+		</tr>
+		<tr>
+			<td style="height:20px">12:45</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:20px">12:15</td>
+			<td rowspan="2">ShanghaiTech-Parkyard</td>
+		</tr>
+		<tr>
+			<td style="height:20px">17:55</td>
+		</tr>
+		<tr>
+			<td style="height:20px">16:15</td>
+			<td>Parkyard-Farewell Party</td>
+		</tr>
+	</tbody>
+</table>
+
 
 ### Other Hotels
 
